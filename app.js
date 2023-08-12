@@ -11,7 +11,6 @@ const facultyRoute = require("./api/route/faculty");
 const bodyParser = require('body-parser')
 
 
-
 // importing mongodb
 const mongoose = require("mongoose");
 // password connection  database ==> connect ===> drivers
